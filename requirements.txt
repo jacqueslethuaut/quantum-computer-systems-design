@@ -1,0 +1,6 @@
+#python 3.8
+numpy 
+matplotlib 
+networkx
+tweedledum==1.1.0
+qiskit~=0.34.0
