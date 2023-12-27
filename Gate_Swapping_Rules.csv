@@ -1,0 +1,7 @@
+,I,X,Z,T,Tdg,CX
+I,I,X,Z,T,Tdg,CX
+X,X,I,Does not commute,X ZT,X ZTdg,X (control) X (target) CX
+Z,Z,Does not commute,I,Does not commute,Does not commute,Z (control) commutes
+T,T,ZT X,Does not commute,Tdg,I,T (control) CX
+Tdg,Tdg,ZTdg X,Does not commute,I,T,Tdg (control) CX
+CX,CX,Does not commute,Z (target) does not commute,CX T (control),CX Tdg (control),I
